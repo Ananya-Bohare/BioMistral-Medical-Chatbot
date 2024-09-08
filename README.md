@@ -15,7 +15,7 @@ This chatbot helps simplify medical information retrieval in an interactive, con
 
 ## 🖼️ Chatbot Interface
 
-<img src="Imgs/Img2.PNG" width="1000" height="950" alt="Screenshot">
+<img src="Imgs/Img2.PNG" width="1000" height="850" alt="Screenshot">
 
 
 ## 📚 How to Use
