@@ -13,6 +13,15 @@ This chatbot helps simplify medical information retrieval in an interactive, con
 - **Model**: [BioMistral-7B-GGUF](https://huggingface.co/models/biomistral-7b-gguf)
 - **Architecture**: LLaMA-based, 7.24B parameters.
 
+## 🖼️ Chatbot Interface
+
+Imgs/Img1.PNG
+
+## 📚 How to Use
+
+Visit the [Hugging Face Space](https://huggingface.co/spaces/Anna2003/BioMistral-Medical-Chatbot) to interact with the chatbot.
+
+
 ---
 
 Feel free to contribute and improve this project! 😊
